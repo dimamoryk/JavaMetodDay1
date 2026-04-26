@@ -1,4 +1,4 @@
-package facnoexception;
+package factorial_not_exeption;
 
 public class Main {
     public static long factorial(int n) {
